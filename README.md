@@ -1,6 +1,6 @@
 # Hello and welcome to JAX London Demo Repository
-## This repo contains basic Maven project with Hello-World war file 
-In order to make it work, please do the following: 
+## This repo contains basic Maven project with Hello-World war file
+In order to make it work, please do the following:
 
 <ul>
   <li>Make sure JAVA 8 is running on your laptop</li>
@@ -18,3 +18,5 @@ In order to make it work, please do the following:
  >   <user username="admin" password="admin" roles="manager-gui,admin-gui,manager-script" />
  > </tomcat-users>
  > ```
+
+Bla
