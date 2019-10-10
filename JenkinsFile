@@ -20,6 +20,6 @@ node {
    }
    stage('Results') {
       junit '**/target/surefire-reports/TEST-*.xml'
-	  cp -R './build-war/target/helloworld-build-1.0.0-SNAPSHOT' '/C/Program Files (x86)/Apache Software Foundation/Tomcat 9.0/webapps/helloworld'
+	  bat(/copy /"build-war\target\helloworld-build-1.0.0-SNAPSHOT" "C:\Program Files (x86)\Apache Software Foundation\Tomcat 9.0\webapps\helloworld"/)
    }
 }
