@@ -24,6 +24,7 @@
 				<configuration>
 					<webXml>src/main/webapp/WEB-INF/web.xml</webXml>
 					<!-- <warName>${finalWarName}</warName> -->
+					<!-- A comment for test -->
 				</configuration>
 			</plugin>
 
