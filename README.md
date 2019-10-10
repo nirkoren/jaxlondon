@@ -1,6 +1,8 @@
-# Welcome to JAX London 2019 Demo Repository
+# Welcome to JAX London Demo Repository
 ## This repo contains basic Maven project with Hello-World war file 
 In order to make it work, please do the following: 
+
+Some new important documentation.
 
 <ul>
   <li>Make sure JAVA 8 is running on your laptop</li>
