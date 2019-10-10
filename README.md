@@ -1,5 +1,6 @@
 # Hello and welcome to JAX London Demo Repository
 ## This repo contains basic Maven project with Hello-World war file 
+Test-Felix
 In order to make it work, please do the following: 
 
 <ul>
