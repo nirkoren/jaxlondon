@@ -17,4 +17,8 @@ In order to make it work, please do the following:
  >   <role rolename="manager-script" />
  >   <user username="admin" password="admin" roles="manager-gui,admin-gui,manager-script" />
  > </tomcat-users>
- > ```
+ >
+ ```
+
+
+ Added new line
