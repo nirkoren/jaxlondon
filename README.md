@@ -2,6 +2,8 @@
 ## This repo contains basic Maven project with Hello-World war file 
 In order to make it work, please do the following: 
 
+Some new important documentation.
+
 <ul>
   <li>Make sure JAVA 8 is running on your laptop</li>
   <li>Get Tomcat 8 - prefer the Core > Zip from <a href=https://tomcat.apache.org/download-80.cgi target=new>here</a></li>
